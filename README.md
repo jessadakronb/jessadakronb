@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="{https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white}" />
 <!--
 **jessadakronb/jessadakronb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
