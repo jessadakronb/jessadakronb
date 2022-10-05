@@ -15,7 +15,7 @@ I like programming and new technologies. I can increase my ability to improve my
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool and work life balance
-- 🚀 I’m currently learning about VueJs and ReactJs
+- 🚀 I’m currently learning about VueJs
 - 💬 You can always contact me, I will be happy if you contact me
 - 📫 How to reach me: jessadakron.borisut@gmail.com
 
