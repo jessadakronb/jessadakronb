@@ -41,6 +41,3 @@ I like programming and new technologies. I can increase my ability to improve my
 Practice coding with javascript.
 ```
 <!--END_SECTION:waka-->
-
-📈 **My GitHub Stats:**
-
